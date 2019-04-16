@@ -1,0 +1,18 @@
+//input
+// number
+// sum = 0
+
+//process
+//for(number=11; number<23; number++)
+
+//output
+//console.log("number");
+
+let number;
+let sum = 0;
+
+for (number=11; number<23; number++){
+sum = sum + number;
+console.log(number);}
+
+alert(sum);
