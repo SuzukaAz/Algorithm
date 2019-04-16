@@ -22,3 +22,25 @@ let Average;
 Average = (grade1 + grade2 + grade3 + grade4)/4
 //Output
 console.log("The grade of " + student1 + " is " + Average);
+
+// input 
+// status;
+
+//process
+//if(Average>61) 
+//status = approved
+//else 
+//status = reproved
+
+//output
+//print status;
+
+//input 
+let status;
+
+//process
+if(average>61){
+status = ("approved");
+}else{
+status = ("reproved");}
+console.log(student1 + " is " + status);
