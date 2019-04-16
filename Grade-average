@@ -1,0 +1,24 @@
+// input
+// sutdent1 = (input)Suzuka
+// grade1 = (input) 100
+// grade2 = (input) 90
+// grade3 = (input) 50
+// grade4 = (input) 80
+
+// process
+//(grade1 + grade2 + grade3 + grade4)/4 = average
+
+//output 
+//print average;
+
+//Input
+let student1 = ("Suzuka");
+let grade1 = 100;
+let grade2 = 90;
+let grade3 = 50;
+let grade4 = 80;
+let Average;
+//Process
+Average = (grade1 + grade2 + grade3 + grade4)/4
+//Output
+console.log("The grade of " + student1 + " is " + Average);
