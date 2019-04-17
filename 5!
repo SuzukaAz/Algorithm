@@ -1,0 +1,18 @@
+// input 
+// n;
+// number = 1;
+
+// prrocess 
+// (n = 5; n > 0; n-=1);
+// number = number*n
+
+// output
+// print number;
+
+let n;
+let number = 1;
+
+for(n = 5; n > 0; n-=1){
+number = number*n;}
+
+console.log(number)
