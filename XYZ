@@ -1,0 +1,19 @@
+//input 
+// x = 7
+// y = 3
+// z = 1
+
+// process
+//compare x and y, if x>y, swap if not, leave.
+// if (x > y){
+swap
+}
+// if (x > z){
+swap
+}
+// if (y > z){
+swap
+}
+
+// output
+line up (x,y,z) 
