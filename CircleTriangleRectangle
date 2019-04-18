@@ -1,0 +1,49 @@
+// input P1/╥ = 3.14
+R = input;
+H = input;
+A = ?;
+
+//process 
+A = 2╥RH + 2╥^2
+
+//output 
+print A
+
+
+//circle 
+// input
+╥ = 3.14
+R = 5
+A;
+
+//process
+A = R(2)*╥
+
+//output
+print A
+
+
+//triangle 
+//input
+A;
+H = 5
+B = 10
+
+//process
+A = (H*B)/2
+
+//output 
+print A
+
+
+//rectangle
+//input
+A;
+H = 5
+B = 10
+
+//process
+A = H*B
+
+//output
+print A
